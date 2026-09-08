@@ -8,10 +8,6 @@
 
 HTML • CSS • JavaScript • React • Node.js • Express • MongoDB
 
-
-### ✅ Task Manager
-Full-stack CRUD application
-
 ## Currently Learning
 
 - React
